@@ -1,0 +1,6 @@
+export { default as HomePage } from './HomePage'
+export { default as MemoriesPage } from './MemoriesPage'
+export { default as ArchivePage } from './ArchivePage'
+export { default as StatisticsPage } from './StatisticsPage'
+export { default as SettingsPage } from './SettingsPage'
+export { default as NotFoundPage } from './NotFoundPage'
